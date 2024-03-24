@@ -3,6 +3,7 @@ We have developed a federated learning-driven maritime visual surveillance metho
 
 
 **Server**
+
 In order to start a Federated Learning training, it is necessary to start the server:
 
 python fd_server.py --config_file yolo_task.json --port 12345
